@@ -4,4 +4,9 @@
     "changelog": "Initial V2 release - New UI, Major Optimizations, Wagers, Multi-Lobbies, Attachment support & UI, and more",
     "critical": false
   },
+    "td-airsoft": {
+    "version": "2.0.2",
+    "changelog": "Fixes to fxmanifest casing for 'callbacks/' found on linux servers",
+    "critical": false
+  },
 }
