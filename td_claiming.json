@@ -1,1 +1,8 @@
+{
+  "td_claiming": {
+    "version": "1.0.1",
+    "changelog": "Initial release - QBX Claiming with mostly open functions and extreme customizability!",
+    "critical": false
+  },
 
+}
