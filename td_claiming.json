@@ -3,5 +3,10 @@
     "version": "1.0.1",
     "changelog": "Initial release - QBX Claiming with mostly open functions and extreme customizability!",
     "critical": false
+  },
+    "td_claiming": {
+    "version": "1.0.2",
+    "changelog": "Test Initial release - QBX Claiming with mostly open functions and extreme customizability!",
+    "critical": true
   }
 }
